@@ -1,1 +1,1 @@
-# benim ilk repom                                               
+benim ilk repom
